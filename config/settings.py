@@ -28,6 +28,7 @@ INSTALLED_APPS = [
     "pastas",
     'crispy_forms',
     'crispy_bootstrap5',
+    'usuarios'
     
 ]
 
